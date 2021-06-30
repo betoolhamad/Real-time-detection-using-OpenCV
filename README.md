@@ -5,7 +5,9 @@ So, after install a python and the chose the editor like Anaconda or Pycharm or 
 **Steps to install OpenCv library:** 
 
 First, from PyCharm IDE go to the File -> new project setting -> preference for new projects , as in the picture :<br></br>
-<img width="700" alt="Screen Shot 1442-11-20 at 2 58 15 PM" src="https://user-images.githubusercontent.com/43522153/124007310-eeac3980-d9e3-11eb-980b-be2f27d58cbc.png">
+
+<img width="700" alt="Screen Shot 1442-11-20 at 9 54 50 PM" src="https://user-images.githubusercontent.com/43522153/124016043-e0fbb180-d9ed-11eb-9691-8742e5d7be2f.png">
+
 
 Second, from python interpreter, chose your project then click the plus icon in the bottom wich means install.  
 
@@ -18,7 +20,10 @@ Third, write **opencv-python** in search bar and click on "install package" butt
 <img width="700" alt="Screen Shot 1442-11-20 at 2 58 42 PM" src="https://user-images.githubusercontent.com/43522153/124007443-0d123500-d9e4-11eb-9a53-7877f98279a4.png">
 
 
-when the installing is successfully, close tabs and start to use it via import the library by written :
+when the installing is successfully, close tabs and start to use it via import the library by written :  <br></br>
+`
+import cv2
+`
 
 
 <img width="700" alt="Screen Shot 1442-11-20 at 9 12 38 PM" src="https://user-images.githubusercontent.com/43522153/124011693-f3272100-d9e8-11eb-8475-69461852c9c9.png">
@@ -50,6 +55,7 @@ import cv2
 ```
 
 # Face detection using OpenCV
+
 
  
 
