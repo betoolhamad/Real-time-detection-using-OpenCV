@@ -5,8 +5,8 @@ So, after install a python and the chose the editor like Anaconda or Pycharm or 
 
 
 
-**Note : ** you can installed the library using terminal and run a following commands:
-```
+**Note :** you can installed the library using terminal and run a following commands:
+
 
  
 
