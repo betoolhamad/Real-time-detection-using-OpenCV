@@ -56,6 +56,15 @@ import cv2
 
 # Face detection using OpenCV
 
+Here, after I coding and run the program I tested it on my brother to detect his face directly.
+
+And the is the result:
+
+
+https://user-images.githubusercontent.com/43522153/124594382-66f17f80-de68-11eb-997d-aec3a66e93ac.mov
+
+
+
 
  
 
